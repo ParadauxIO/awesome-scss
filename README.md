@@ -10,6 +10,15 @@ Links and resources for students within the School of Computer Science and Stati
 - [Map](https://map.danieloreilly.ie) :: An unofficial and interacitve map of the Trinity College, Dublin campus
 - [Jargon Buster](https://www.tcd.ie/students/orientation/jargon/) :: An introduction to the fancy words and terminology used in Trinity
 
+# School Resources
+- [SCSS Lab opening times](https://teaching.scss.tcd.ie/general-information/lab-opening-times/)
+- [SCSS Teaching & Learning Site](https://teaching.scss.tcd.ie)
+- [SCSS Undergraduate Programming Support Center](https://www.scss.tcd.ie/misc/psc/)
+- [SCSS Wiki](https://support.scss.tcd.ie)
+- [SCSS Gitlab](https://gitlab.scss.tcd.ie/users/sign_in)
+- [SCSS Owncloud](https://owncloud.scss.tcd.ie/login)
+- [SCSS Study Abroad](https://teaching.scss.tcd.ie/study-abroad/)
+
 # Student Supports and Services
 - [Student2Student Mentoring](https://student2student.tcd.ie/) :: Optional student-driven volunteering service for incoming First Year Students
 
