@@ -41,8 +41,19 @@ Links and resources for students within the School of Computer Science and Stati
 
 ## Year 1
 ### Introduction to Programming
-- [Java SE Specification](https://docs.oracle.com/javase/specs/) :: Oracle's opinionated guide to how Java code should look and flow.
+#### Self-paced java courses not taught poorly
 - [Java Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)† :: Excellent Java Udemy course
+- [Jetbrains Academy](https://jetbrains.com/academy)† :: Jetbrains exercise-based Java tutorials, there's a few months long free trial.
+- [mooc.fi](https://mooc.fi/en) :: University of Helsinki's free massive open online course on various topics, including Java programming. (In English)
+- [Java Constructors video](https://youtu.be/jVGTWXbGpVI)
+- [Effective Java Talk](https://www.youtube.com/watch?v=hSfylUXhpkA)
+- [The New Boston's Java Tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28&app=desktop)
+
+#### Community
+- [Java Discord](https://discord.gg/ykwSJ4VFYC) :: Free and friendly Java programming help
+
+- [Java SE Specification](https://docs.oracle.com/javase/specs/) :: Oracle's opinionated guide to how Java code should look and flow. 
+
 
 - [Baeldung](https://www.baeldung.com/) :: Practical Java/CS Tutorials
 - [Geeks for Geeks](https://www.geeksforgeeks.org/) :: Practical Java/CS Tutorials
