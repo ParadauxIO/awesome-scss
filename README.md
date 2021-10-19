@@ -62,6 +62,9 @@ Links and resources for students within the School of Computer Science and Stati
 ### Introduction to Computing
 - [Writing Arm Assembly (Basics)](https://azeria-labs.com/writing-arm-assembly-part-1/) :: A tutorial series on Arm Assembly.
 - [Arm Developer Documentation](https://developer.arm.com/documentation/) :: 	Official Arm Reference Documentation 
+- [CSFC Arm Cheatsheet](https://csfriendlycorner.com/#/arm/resources/cheat-sheet)
+- [Emory: Arithmetic Operators](http://www.mathcs.emory.edu/~cheung/Courses/255/Syl-ARM/7-ARM/arithm.html)
+- [Ascii Table](https://www.asciitable.com/)
 
 ### Mathematics I
 - [Khan Academy](https://www.khanacademy.org/) :: Khan Academy is a free resource for Mathematics (and CS too!)	
@@ -69,6 +72,10 @@ Links and resources for students within the School of Computer Science and Stati
 - [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) :: An approachable Math Teacher teaching complex topics in simple terms.
 - [MIT OpenCourseware](https://ocw.mit.edu/index.htm) :: Free access to various MIT Courses in Mathematics.	
 - [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA) :: Despite the name, TOCT Covers various topics in Math/Physics alongside Chemistry
+- [matrixcalc.org](https://matrixcalc.org) :: Matrix calculator 
+- [matrix.reshish.com](https://matrix.reshish.com/) :: Another matrix calculator
+- [MIT OpenCourseware: distance of a point to a plane](https://youtu.be/SgJo7_4mp6w) 
+- [3B1B: Vectors series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Year 2
 ### Discrete Mathematics
