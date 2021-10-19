@@ -6,9 +6,13 @@ Links and resources for students within the School of Computer Science and Stati
 † denotes a paid resource.
 
 # General 
-
 - [Map](https://map.danieloreilly.ie) :: An unofficial and interacitve map of the Trinity College, Dublin campus
 - [Jargon Buster](https://www.tcd.ie/students/orientation/jargon/) :: An introduction to the fancy words and terminology used in Trinity
+
+### "Ethical" Access to research papers, textbooks and more
+These are definitely websites to avoid, you wouldn't want to be commiting piracy or anything, so whatever you do don't go here. 
+- [libgen](https://libgen.is) :: Mostly ebooks/pdfs of textbooks
+- [scihub](https://sci-hub.ee/) :: PDFs of research papers, provided the DOI
 
 # School Resources
 - [SCSS Lab opening times](https://teaching.scss.tcd.ie/general-information/lab-opening-times/)
@@ -52,9 +56,8 @@ Links and resources for students within the School of Computer Science and Stati
 #### Community
 - [Java Discord](https://discord.gg/ykwSJ4VFYC) :: Free and friendly Java programming help
 
+#### Resources / Tutorial Sites
 - [Java SE Specification](https://docs.oracle.com/javase/specs/) :: Oracle's opinionated guide to how Java code should look and flow. 
-
-
 - [Baeldung](https://www.baeldung.com/) :: Practical Java/CS Tutorials
 - [Geeks for Geeks](https://www.geeksforgeeks.org/) :: Practical Java/CS Tutorials
 - [Tutorialspoint](https://www.tutorialspoint.com/) :: Practical Java/CS Tutorials
@@ -79,7 +82,13 @@ Links and resources for students within the School of Computer Science and Stati
 
 ## Year 2
 ### Discrete Mathematics
+- [TheTrevTutor's Logic Series](https://www.youtube.com/watch?v=EsnJ-YEMbhk&list=PLDDGPdw7e6AhsNuxXP3D-45Is96L8sdSG)
+- [TheTrevTutor's Discrete Maths series](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+
 ### Algorithms & Data Structures
+- [Algorithms v4 website](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+
+
 ### Intermediate Programming 
 
 # List of lists
