@@ -8,6 +8,8 @@ Links and resources for students within the School of Computer Science and Stati
 # General 
 - [Map](https://map.danieloreilly.ie) :: An unofficial and interacitve map of the Trinity College, Dublin campus
 - [Jargon Buster](https://www.tcd.ie/students/orientation/jargon/) :: An introduction to the fancy words and terminology used in Trinity
+- [Linkedin Learning (lynda.com)](https://www.linkedin.com/learning/) :: Logging in with your TCD network user/pass will grant you free access to linkedin learning, formally known as lynda.com which has a wealth of (pretty meh quality) courses on various subjects.
+
 
 ### "Ethical" Access to research papers, textbooks and more
 These are definitely websites to avoid, you wouldn't want to be commiting piracy or anything, so whatever you do don't go here. 
