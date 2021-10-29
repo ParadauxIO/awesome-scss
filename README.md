@@ -30,9 +30,9 @@ These are definitely websites to avoid, you wouldn't want to be commiting piracy
 
 # What you're not taught in school
 
--[Missing Semester](https://missing.csail.mit.edu/)
--[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
--[Khan Academy CS](https://www.khanacademy.org/computing/computer-science)
+- [Missing Semester](https://missing.csail.mit.edu/)
+- [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Khan Academy CS](https://www.khanacademy.org/computing/computer-science)
 
 # Exam preparation and resources
 - [CS Exams](https://cs-exams.com/)
